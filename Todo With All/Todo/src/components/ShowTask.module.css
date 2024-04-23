@@ -1,0 +1,9 @@
+.todo {
+    font-weight: bold;
+}
+
+.parabox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

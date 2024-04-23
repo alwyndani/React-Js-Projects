@@ -1,0 +1,23 @@
+.header {
+    background-color: aqua;
+}
+
+ @media (max-width : 575px) {
+    .header {
+         width: 505px; 
+    }
+}
+
+ @media (max-width : 500px) {
+    .header {
+         width: 455px; 
+    }
+     .logo {
+        width: 110px;
+        background-color: red;
+    }
+    .mate {
+        font-size: 5px;
+        background-color: blue;
+    }
+}
