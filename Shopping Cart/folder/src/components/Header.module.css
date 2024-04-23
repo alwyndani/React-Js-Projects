@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    padding: 0px 25px;
+    background-color: rgb(233, 236, 235);
+}
+
+.link {
+    font-size: 20px;
+    color: black;
+}
+
+.link:hover {
+    color: black;
+background-color: rgb(228, 228, 224);
+    padding: 2px;
+    border-right-style: outset;
+    border-radius: 7px;}
+
+.sec {
+    display: flex;
+    margin: auto;
+    gap: 15px;
+}
